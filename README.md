@@ -66,6 +66,5 @@ If you discover a security vulnerability, please report it responsibly. Do **not
 ## Links
 
 - Website: [https://sunswap.com](https://sunswap.com)
-- BTFS: [SunSwap](https://sunswap.on.btfs.io/#/home)
 - Twitter: [https://x.com/OfficialSUNio](https://x.com/OfficialSUNio)
 - Telegram: [https://t.me/officialsunecosystem](https://t.me/officialsunecosystem)
