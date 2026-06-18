@@ -66,6 +66,5 @@ SunSwap 支持三种语言：
 ## 相关链接
 
 - 官网：[https://sunswap.com](https://sunswap.com)
-- BTFS：[SUNSWAP](https://sunswap.on.btfs.io/#/home)
 - Twitter：[https://x.com/OfficialSUNio](https://x.com/OfficialSUNio)
 - Telegram：[https://t.me/officialsunecosystem](https://t.me/officialsunecosystem)
