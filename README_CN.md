@@ -12,10 +12,6 @@ SunSwap 是基于波场的去中心化交易协议，为自动化流动性供应
 - **SUN 回购销毁** — 代币持续回购&销毁，价值赋能社区生态
 - **多钱包支持** — TronLink、Binance Wallet、WalletConnect、TokenPocket、Bitget Wallet、OKX Wallet、Ledger。
 
-## BTFS
-
-[SunSwap](https://sunswap.on.btfs.io/#/home)
-
 ## 部署
 
 本仓库包含预构建的静态文件，可由任何 Web 服务器提供服务。

@@ -12,10 +12,6 @@ SunSwap is a TRON-based decentralized trading protocol for automated liquidity p
 - **SUN Buyback & Burn** — Continuous token buyback & burn to empower the community ecosystem.
 - **Multi-Wallet Support** — TronLink, Binance Wallet, WalletConnect, TokenPocket, Bitget Wallet, OKX Wallet, Ledger.
 
-## BTFS
-
-[SunSwap](https://sunswap.on.btfs.io/#/home)
-
 ## Deployment
 
 This repository contains pre-built static files ready to be served by any web server.
