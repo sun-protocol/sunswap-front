@@ -40,7 +40,7 @@ server {
 - [TronLink](https://www.tronlink.org)
 - [Binance Wallet](https://www.binance.com/en/web3wallet)
 - [WalletConnect](https://walletconnect.com)
-- [BitKeep (Bitget Wallet)](https://web3.bitget.com/zh-CN)
+- [BitKeep (Bitget Wallet)](https://web3.bitget.com/)
 - [OKX Wallet](https://web3.okx.com)
 - [TokenPocket](https://www.tokenpocket.pro)
 - [Ledger](https://www.ledger.com)
